@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+### About
+
+-  **Position :** Senior Software Engineer
+-  **Software Stack :** C#, .NET Core, ASP.NET Core, MVC, SOA, Web Services, Service Bus, Message Brokers, SQL 
+-  **Organization :** Visivo Consulting GmbH
+
 <!--
 **kostebudinoski/kostebudinoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
