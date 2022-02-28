@@ -3,7 +3,7 @@
 
 ### About
 
--  **Position :** Senior Software Engineer
+-  **Position :** Backend Development Team Lead
 -  **Software Stack :** C#, .NET Core, ASP.NET Core, MVC, SOA, Web Services, Service Bus, Message Brokers, SQL 
 -  **Organization :** Visivo Consulting GmbH
 
