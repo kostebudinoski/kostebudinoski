@@ -3,8 +3,7 @@
 
 ### About
 
--  **Position :** Staff Software Engineer | Backend Development Tech Lead
--  **Software Stack :** C#, .NET Core, ASP.NET Core, MVC, SOA, Web Services, Service Bus, Message Brokers, SQL 
+-  **Position :** Staff Software Engineer
 -  **Organization :** Visivo Consulting GmbH
 
 <!--
